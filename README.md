@@ -4,4 +4,4 @@
 
 ## Christmas tree drawing using python turtle library
 
-![](https://raw.githubusercontent.com/jimmy-moqin/ChristmasTree/main/WSY%5BXV6C~AY%5BDLKBD6%7DFGGN.png)
+<img src="https://raw.githubusercontent.com/jimmy-moqin/ChristmasTree/main/WSY%5BXV6C~AY%5BDLKBD6%7DFGGN.png" style="zoom:33%;" />
